@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "255916b13e5c76bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e906be863d0b5936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a21321e853cc1a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/华为AR系列路由器入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7f99646bf25b4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c0af6f234b3c5fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc808098c329d53a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2ba65de8507a7ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "664b3bde7d9cffc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "323f2ca4e1a19571",
+    "type": "split",
+    "children": [
+      {
+        "id": "b89f7e2b62dca757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "badaa054a900512d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "post/华为AR系列路由器入门.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dc90c0514f78cb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "post/华为AR系列路由器入门.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffe54cb2f4e15eb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3acf0985fd8f2132",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "post/华为AR系列路由器入门.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a21321e853cc1a80",
+  "lastOpenFiles": [
+    "post/assets/Pasted image 20231019204608.png",
+    "post/assets/Pasted image 20231019204545.png",
+    "post/assets/Pasted image 20231019204539.png",
+    "post/assets/01.png",
+    "post/assets/Pasted image 20231019204418.png",
+    "post/firewall.md",
+    "post/华为AR系列路由器入门.md",
+    "post/assets/Pasted image 20231019202012.png",
+    "post/assets/Pasted image 20231019201604.png",
+    "post/assets/Pasted image 20231019201543.png",
+    "post/assets/Pasted image 20231019201523.png",
+    "post/assets/Pasted image 20231019201445.png",
+    "post/assets/Pasted image 20231019201414.png",
+    "post/assets"
+  ]
+}

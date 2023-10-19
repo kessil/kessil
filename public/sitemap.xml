@@ -1,0 +1,60 @@
+<?xml-stylesheet type="text/xsl" href="https://kessil.gitee.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://kessil.gitee.io/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/categories/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/categories/guide/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/tags/markdown/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/post/markdown/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/post/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kessil.gitee.io/tags/</loc>
+    <lastmod>2020-09-05T19:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
